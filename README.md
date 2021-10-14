@@ -12,6 +12,10 @@ Profissão:
 <a name="1"></a>
 # 1.Devops
 
+O que é: Profissão que nasceu de uma combinação de um conjunto de práticas de desenvolvimento e operações (ops). Um profissional devops deve entender não só infraestrutura (servidores,redes,etc) mas também desenvolvimento para automatizar a gestão de silos em TI.
+
+Onde obter maiores informações para estudo: https://roadmap.sh/devops
+
 <a name="2"></a>
 # 2.SRE
 
